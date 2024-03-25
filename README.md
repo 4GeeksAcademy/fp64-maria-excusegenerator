@@ -1,3 +1,14 @@
+# Cómo vamos a hacer el proyecto
+
+## Pasos a seguir
+
+1. Creo los archivos .html y .js
+2. Organizo la estructura en html.
+3. Escribo las variables en.js que van a contener el quién, la acción, el qué y el cuándo de mis excusas.
+4. Hago que elija una combinación aleatoria de esas opciones.
+5. Lo enlazo con el .html para que se muestre al cargar la página.
+6. Fin
+
 # Hello World with Vanilla JS
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in [Codespaces](https://github.com/codespaces/new/?repo=4GeeksAcademy/vanillajs-hello) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
