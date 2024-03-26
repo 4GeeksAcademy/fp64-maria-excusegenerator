@@ -2,11 +2,15 @@
 
 ## Pasos a seguir
 
-1. Establecer una función que se ejecute al cargar la ventana. ### window.onload
-2. Crear variables que determinen #### who, action, what y when.
-3. Randomizar cada una de esas variables para que devuelva un resultado al azar cada vez que se ejecuta la función. ### Math.floor(Math.random() *X.lenght.
-4. Enlazarlo con el html para que se muestre en pantalla. ### document.getElementById("dhtml)
-5. Fin
+1. Establecer una función que se ejecute al cargar la ventana.
+2. ### window.onload
+3. Crear variables que determinen
+4. #### who, action, what y when.
+5. Randomizar cada una de esas variables para que devuelva un resultado al azar cada vez que se ejecuta la función.
+6. ### Math.floor(Math.random() *X.lenght.
+7. Enlazarlo con el html para que se muestre en pantalla.
+8. ### document.getElementById("dhtml)
+9. Fin
 
 # Hello World with Vanilla JS
 
