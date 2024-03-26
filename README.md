@@ -3,14 +3,14 @@
 ## Pasos a seguir
 
 1. Establecer una función que se ejecute al cargar la ventana.
-### window.onload
+#### window.onload
 2. Crear variables que determinen
-#### who, action, what y when.
+##### who, action, what y when.
 3. Randomizar cada una de esas variables para que devuelva un resultado al azar cada vez que se ejecuta la función.
-### Math.floor(Math.random() *X.lenght.
+#### Math.floor(Math.random() *X.lenght.
 4. Enlazarlo con el html para que se muestre en pantalla.
-### document.getElementById("dhtml)
-9. Fin
+#### document.getElementById("dhtml)
+5. Fin
 
 # Hello World with Vanilla JS
 
