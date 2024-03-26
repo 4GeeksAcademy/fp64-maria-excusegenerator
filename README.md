@@ -1,13 +1,12 @@
-# Cómo vamos a hacer el proyecto
+# Cómo se ejecuta el proyecto
 
 ## Pasos a seguir
 
-1. Creo los archivos .html y .js
-2. Organizo la estructura en html.
-3. Escribo las variables en.js que van a contener el quién, la acción, el qué y el cuándo de mis excusas.
-4. Hago que elija una combinación aleatoria de esas opciones.
-5. Lo enlazo con el .html para que se muestre al cargar la página.
-6. Fin
+1. Establecer una función que se ejecute al cargar la ventana. ####window.onload
+2. Crear variables que determinen ####who, action, what y when.
+3. Randomizar cada una de esas variables para que devuelva un resultado al azar cada vez que se ejecuta la función. ####Math.floor(Math.random() *X.lenght.
+4. Enlazarlo con el html para que se muestre en pantalla. ####document.getElementById("dhtml)
+5. Fin
 
 # Hello World with Vanilla JS
 
